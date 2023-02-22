@@ -1,6 +1,6 @@
-# BoilerPlate
+# bp-react-1
 
-### React JS, Fluent UI, Social Authentication
+### Boilerplate, React JS, Fluent UI, Social Authentication
 
 ## Local setup
 
