@@ -1,5 +1,7 @@
 // import { THEME_NAMES } from "src/theme";
 
+// TODO: rename from Setup to Config
+
 export const authSetup = {
   authPage: "/auth", // exact page where the user will be redirected if not loggedin
   oauthPage: "/auth/oauth/:provider",
